@@ -28,10 +28,10 @@ can veiw their results how many right or wrong questions.
 ## Database 
 • MySQL  
 ## Common voice mozilla
-Also I did common voice mozilla task for extra points. Recorded 1170 and Listened 1403  
-There are no recorded voices left to listen to, and I recorded 600 more voices
-Just for information, voice recordings were not recorded by native speakers. And I rejected  
-a lot recordings because of wrong and bad pronunciation. At the end of page is screenshots  
+Also I did common voice mozilla task for extra points. Recorded 1170 and Listened 1403   
+There are no recorded voices left to listen to, and I recorded 600 more voices  
+Just for information, voice recordings were not recorded by native speakers. And I rejected    
+a lot recordings because of wrong and bad pronunciation. At the end of page is screenshots    
 # WEB   
 ![1](https://user-images.githubusercontent.com/55020218/117871581-5c2eca00-b2bf-11eb-91f7-ddb96aa407c3.JPG)    
 ![2](https://user-images.githubusercontent.com/55020218/117871555-546f2580-b2bf-11eb-9c94-e45b07b9b374.JPG)  
