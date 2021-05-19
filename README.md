@@ -14,7 +14,7 @@ can veiw their results how many right or wrong questions.
 ## Languages Used
 • PHP  
 • JavaScript  
-• Also used(HTML, CSS, Bootstrap, MySQL)  
+• Also used(CSS, Bootstrap, MySQL)  
 ## Features
 • Admin Panel  
 • Student Panel  
