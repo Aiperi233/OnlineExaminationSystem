@@ -1,6 +1,6 @@
 # Online Examination System
 ## Description 
-Website for online testing. The admin can create tests, read feedbacks, watch students'  
+Website for online testing. The admin can create tests, read feedbacks, watch student's  
 progress and can also see their data and delete users. Students can register themselves  
 to take tests, see their results and leave feedback for teachers. Student also can view  
 ranks,own history, and attend exams(based on multiple choise question). At the end they  
